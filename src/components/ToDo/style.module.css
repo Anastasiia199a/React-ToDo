@@ -1,0 +1,14 @@
+.card{
+    padding: 10px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-between;
+  }
+  .done{
+    color: gray;
+    text-decoration: line-through;
+  }
+  .change_block{
+    display: flex;
+    flex-direction: column;
+  }
